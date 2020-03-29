@@ -22,14 +22,23 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
     <modules>
         <module>gladmin-juc</module>
-        <module>gladmin-homework/tw-trains</module>
+        <module>gladmin-homework</module>
         <module>gladmin-lock</module>
-        <module>gladmin-rpc/glrpc-server</module>
+        <module>gladmin-rpc</module>
         <module>gladmin-nosql</module>
         <module>gladmin-hadoop</module>
+        <module>gladmin-db-mysql</module>
+        <module>gladmin-spring-cloud</module>
+        <module>gladmin-utility</module>
+        <module>gladmin-thread</module>
+        <module>gladmin-mq</module>
+        <module>gladmin-jvm</module>
+        <module>gladmin-demo</module>
+        <module>gladmin-io</module>
         <module>gladmin-spring</module>
+        <module>gladmin-homework/gladmin-aop</module>
     </modules>
-
 </project>

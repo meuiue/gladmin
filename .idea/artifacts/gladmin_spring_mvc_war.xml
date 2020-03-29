@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gladmin-spring-mvc:war">
+    <output-path>$PROJECT_DIR$/gladmin-spring/gladmin-spring-mvc/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>gladmin-spring-mvc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="gladmin-spring-mvc.war">
+      <element id="artifact" artifact-name="gladmin-spring-mvc:war exploded" />
+    </root>
+  </artifact>
+</component>

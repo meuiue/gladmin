@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gladmin-redis" />
+        <module name="gladmin-mongodb" />
+        <module name="gladmin-spring" />
+        <module name="gladmin-cloud-skywalking" />
+        <module name="gladmin-cloud-seata" />
+        <module name="gladmin-nio" />
+        <module name="gladmin-spring-boot" />
+        <module name="gladmin-juc" />
+        <module name="gladmin-db-mysql" />
+        <module name="gladmin-demo" />
+        <module name="gladmin-cloud-nacos-service" />
+        <module name="gladmin-cloud-kafka" />
+        <module name="gladmin-mq" />
+        <module name="gladmin-utility" />
+        <module name="gladmin-export" />
+        <module name="gladmin-cloud-feign" />
+        <module name="gladmin-cloud-xxl-job" />
+        <module name="gladmin-cloud-LCN" />
+        <module name="gladmin-thread" />
+        <module name="gladmin-spring-cloud" />
+        <module name="gladmin-cloud-gateway" />
+        <module name="gladmin-cloud-zuul" />
+        <module name="gladmin-jvm" />
+        <module name="gladmin-spring-mvc" />
+        <module name="gladmin-hadoop" />
+        <module name="gladmin-lock" />
+        <module name="gladmin-io" />
+        <module name="gladmin-solution" />
+        <module name="gladmin-rpc" />
+        <module name="gladmin-aop" />
+        <module name="gladmin-cloud-sentinel" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gladmin" target="1.5" />
+      <module name="gladmin-aop" target="1.5" />
+      <module name="gladmin-cloud-feign" target="1.5" />
+      <module name="gladmin-cloud-gateway" target="1.5" />
+      <module name="gladmin-cloud-kafka" target="1.5" />
+      <module name="gladmin-cloud-LCN" target="1.5" />
+      <module name="gladmin-cloud-nacos" target="1.5" />
+      <module name="gladmin-cloud-nacos-service" target="1.8" />
+      <module name="gladmin-cloud-seata" target="1.5" />
+      <module name="gladmin-cloud-sentinel" target="1.5" />
+      <module name="gladmin-cloud-skywalking" target="1.5" />
+      <module name="gladmin-cloud-xxl-job" target="1.5" />
+      <module name="gladmin-cloud-zuul" target="1.5" />
+      <module name="gladmin-db-mysql" target="1.5" />
+      <module name="gladmin-demo" target="1.5" />
+      <module name="gladmin-export" target="1.5" />
+      <module name="gladmin-exportExcel" target="1.5" />
+      <module name="gladmin-hacker" target="1.5" />
+      <module name="gladmin-hadoop" target="1.5" />
+      <module name="gladmin-homework" target="1.5" />
+      <module name="gladmin-io" target="1.5" />
+      <module name="gladmin-juc" target="8" />
+      <module name="gladmin-jvm" target="1.5" />
+      <module name="gladmin-lock" target="8" />
+      <module name="gladmin-mongodb" target="1.5" />
+      <module name="gladmin-mq" target="1.5" />
+      <module name="gladmin-nio" target="7" />
+      <module name="gladmin-nosql" target="1.5" />
+      <module name="gladmin-redis" target="1.5" />
+      <module name="gladmin-rpc" target="1.5" />
+      <module name="gladmin-solution" target="8" />
+      <module name="gladmin-spring" target="1.5" />
+      <module name="gladmin-spring-boot" target="1.8" />
+      <module name="gladmin-spring-cloud" target="1.5" />
+      <module name="gladmin-spring-mvc" target="1.8" />
+      <module name="gladmin-springcloud" target="1.5" />
+      <module name="gladmin-thread" target="1.5" />
+      <module name="gladmin-utility" target="1.5" />
+      <module name="glrpc-server" target="1.5" />
+      <module name="tw-trains" target="7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gladmin-spring-boot" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -22,7 +22,7 @@
 
     <parent>
         <groupId>site.gladmin</groupId>
-        <artifactId>gladmin</artifactId>
+        <artifactId>gladmin-io</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
